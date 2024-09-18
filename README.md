@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este repositório irá servir para registro do progresso da tese "Deep Learning no Diagnóstico e Acompanhamento de lesões em Pé Diabético". 
+Este repositório irá servir para registro do progresso da tese "Deep Learning para Acompanhamento de lesões em Pé Diabético". 
 
 ## Objetivos
 
